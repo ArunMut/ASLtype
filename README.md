@@ -9,4 +9,4 @@ Before starting, make sure you have a white background behind you with your face
 
 [Video Presentation of Entire Project](https://www.youtube.com/watch?v=p81lYV90Nws&ab_channel=RapQuotes)
 
-[Live Demo](https://arunmut.github.io/asltype/)
+[Website]([https://arunmut.github.io/asltype/](https://arunamuthukkumar.github.io/ASLtype/))
